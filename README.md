@@ -19,5 +19,5 @@ O pacote pode ser usado para:
 Use o gerenciador de pacotes [pip](https://pip.pypa.io/en/stable/) para instalar imageprocessbcamp
 
 ```bash
-pip install image-processing-bcamp
+pip install imageprocessbcamp
 ```
